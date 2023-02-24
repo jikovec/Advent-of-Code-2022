@@ -9,7 +9,6 @@ run the project to get the solution.
 
 ## Other years
 
-- [2022](https://github.com/jikovec/advent-of-code-2023)
 - [2022](https://github.com/jikovec/advent-of-code-2022) _(current)_
 
 ## License
