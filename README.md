@@ -5,7 +5,7 @@ This repository holds a separate Python project for each day.
 ## Run solutions
 
 Each Python project contains a `input.txt` file, holding the puzzle input. Simply
-run the project to get the solution.
+run the Python project to get the solution.
 
 ## Other years
 
