@@ -1,4 +1,3 @@
-# https://adventofcode.com/2022/day/1
 def main():
     file = open('input.txt', 'r')
     a = 0
