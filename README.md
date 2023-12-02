@@ -1,5 +1,5 @@
 # Advent-of-Code-2022
-My [Advent of Code 2022][aoc-2022] solutions in Python.
+My [Advent of Code 2022][aoc-2022] solutions.
 This repository holds a separate Python project for each day.
 
 ## Run solutions
