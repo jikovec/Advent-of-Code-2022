@@ -16,4 +16,8 @@ run the Python project to get the solution.
 This project is released under the GNU GPL-3.0 license.
 Check out the [LICENSE](LICENSE) file for more information.
 
+## Note
+
+I lost my solutions and I am way too lazy to do it all again.
+
 [aoc-2022]: https://adventofcode.com/2022
